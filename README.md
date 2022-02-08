@@ -1,10 +1,10 @@
-# House Price Prediction
+# Weather Analysis
 
-Using machine learning to predict house prices.
+Analysing weather data to find holiday destinations.
 
 ## Description
 
-Created an application that contains both a tool for predicting house prices using machine learning as well as an interactive map for visualising historical price data.
+Used APIs to find and analyse weather data to find preferred holiday spots based on preference.
 
 ## Getting Started
 
